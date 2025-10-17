@@ -1,4 +1,18 @@
-function () {
+function toggleCompetences() {
+
+const compSection = document.getElementByClass('cacher');
+
+compSection.style.display =
+
+compSection.style.display === 'none' ? 'block' : 'none';
+  
+
+}
+
+
+
+
+function dark () {
  
   const root = document.documentElement;
  
