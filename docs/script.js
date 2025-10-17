@@ -1,5 +1,3 @@
-
-
 function () {
  
   const root = document.documentElement;
