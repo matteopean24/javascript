@@ -1,6 +1,6 @@
 function toggleCompetences() {
 
-const compSection = document.getElementByClass('cacher');
+const compSection = document.getElementByClass('competences');
 
 compSection.style.display =
 
